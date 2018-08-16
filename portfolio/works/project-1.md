@@ -1,15 +1,15 @@
 ---
 title: Project one
 date: 2018-08-01 00:00:00 +0000
-thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
+thumbnail: "/upload/IMG_0079 2.PNG"
 year: 2018
 categories:
 - print
 description: subtitle
 
 ---
-# Project one
+# Priced to fit your needs
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Mode Business has customized pricing options to fit your analytics needs. Pricing is based on the scope of your deployment, organizational requirements, and the number of user
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+![ass](https://about.modeanalytics.com/img/business/version-control.png "coll screenshot")
