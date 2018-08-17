@@ -1,7 +1,7 @@
 ---
 title: Project one
 date: 2018-08-01 00:00:00 +0000
-thumbnail: "/upload/IMG_0079 2.PNG"
+thumbnail: "/upload/water-journal-225046.jpg"
 year: 2018
 categories:
 - print
